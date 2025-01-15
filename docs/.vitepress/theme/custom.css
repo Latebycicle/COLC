@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Geologica:wght@400;700&display=swap');
+
+:root {
+  --vp-c-brand-1: rgb(40,48,93); /* Default color for light mode */
+  --vp-c-brand-3: rgb(40,48,93); /* Default color for light mode */
+  --vp-font-family-base: 'Geologica', ui-sans-serif, system-ui, sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+html[color-scheme="dark"] {
+  --vp-c-brand-1: rgb(255,255,255); /* Light color for dark mode */
+  --vp-c-brand-3: rgb(200,200,200); /* Light color for dark mode */
+}
+
+html[data-theme="light"] {
+  --vp-c-brand-1: rgb(40,48,93); /* Dark color for light mode */
+  --vp-c-brand-3: rgb(40,48,93); /* Dark color for light mode */
+}
+
+html {
+    line-height: 1.4;
+    font-size: 16px;
+    -webkit-text-size-adjust: 100%;
+}
+
+html.dark {
+    color-scheme: dark;
+    --vp-c-brand-1: rgb(236,225,211); /* Light color for dark mode */
+    --vp-c-brand-3: rgb(40,48,93);
+}
