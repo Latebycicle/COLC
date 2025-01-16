@@ -28,6 +28,3 @@ features:
     title: Enhance Learning
     details: Speed up your learning process now
 ---
-
-
-## This is a new section

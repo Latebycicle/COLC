@@ -1,4 +1,3 @@
-
 export default {
   title: "CAPS Online Learning Center",
   description: "A repo of information",
@@ -16,7 +15,18 @@ export default {
           text: "Engineering and Technology",
           collapsible: true,
           items: [
+            
             { text: "Introduction", link: "/Engineering/introduction.md" },
+            {
+              text: "Tools",
+              collapsible: true,
+              items: [
+                { text: "🎓 Github Education", link: "/Engineering/GitHub.md" },
+                { text: "Grammarly Premium", link: "/Engineering/grammarly.md" },
+                { text: "Tool 1", link: "/Engineering/tools/page1.md" },
+                { text: "Tool 2", link: "/Engineering/tools/page2.md" },
+              ],
+            },
           ],
         },
         {
