@@ -37,3 +37,18 @@ html.dark .curtain {
 html .curtain{
   background-color: var(--vp-nav-bg-color) !important;
 }
+
+.VPSidebar[data-v-6750ea26] {
+  padding-left: none !important;
+  width: calc((100% -(var(--vp-layout-max-width) - 64px)) / 2 + var(--vp-sidebar-width) - 32px);
+}
+
+@media (min-width: 1440px) {
+  padding-left: 0 !important; 
+}
+
+:root ::-webkit-scrollbar {
+  display: none;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

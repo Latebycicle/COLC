@@ -17,14 +17,13 @@ export default {
           items: [
             
             { text: "Introduction", link: "/Engineering/introduction.md" },
+            { text: "Certification", link: "/Engineering/Certification.md" },
+            { text: "Courses", link: "/Engineering/Courses.md" },
             {
               text: "Tools",
               collapsible: true,
               items: [
-                { text: "🎓 Github Education", link: "/Engineering/GitHub.md" },
-                { text: "Grammarly Premium", link: "/Engineering/grammarly.md" },
-                { text: "Tool 1", link: "/Engineering/tools/page1.md" },
-                { text: "Tool 2", link: "/Engineering/tools/page2.md" },
+                { text: "🎓 Github Education", link: "/Engineering/tools/GitHub.md" },
               ],
             },
           ],
@@ -37,10 +36,20 @@ export default {
           ],
         },
         {
-          text: "Management",
+          text: "Open Resources",
           collapsible: true,
           items: [
-            { text: "Introduction", link: "/introduction" },
+            { text: "Textbooks/Papers", link: "/OpenResources/Material.md" },
+            {
+              text: "Tools",
+              collapsible: true,
+              items: [
+                { text: "Grammarly Premium", link: "/OpenResources/Tools/grammarly.md" },
+                { text: "Figma", link: "/OpenResources/Tools/Figma.md" },
+                { text: "Notion", link: "/OpenResources/Tools/Notion.md" },
+                { text: "NotebookLM", link: "/OpenResources/Tools/NotebookLM.md" },
+              ],
+            }
           ],
         },
       ],

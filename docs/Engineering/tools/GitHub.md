@@ -1,6 +1,8 @@
 # Github Education
 
-GitHub offers a fantastic resource for students and educators through its GitHub Education program. This initiative aims to provide students with real-world software development tools and experience, preparing them for careers in technology. By verifying their student status, eligible students gain access to the GitHub Student Developer Pack, a collection of powerful tools and services from GitHub and its partners, completely free of charge. This pack is designed to help students learn to code, build projects, and collaborate with others, just like professional developers. It’s a valuable stepping stone for anyone looking to enter the tech industry.
+GitHub offers a fantastic resource for students and educators through its GitHub Education program. Gain access to the GitHub Student Developer Pack, a collection of powerful tools and services from GitHub and its partners, completely free of charge. This pack is designed to help students learn to code, build projects, and collaborate with others, just like professional developers. It’s a valuable stepping stone for anyone looking to enter the tech industry.
+
+![](https://miro.medium.com/v2/resize:fit:1024/1*Y1w0P9Hxh5_hxgBxnl-Lkw.jpeg)
 
 Here's a list of partner offers that you can avial through Github Education:
 
