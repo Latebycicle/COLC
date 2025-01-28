@@ -32,7 +32,7 @@ export default {
           text: "Psychology",
           collapsible: false,
           items: [
-            { text: "Introduction", link: "/introduction" },
+            { text: "Physical Psychology", link: "/Psychology/PhysicalPsychology" },
           ],
         },
         {
@@ -53,6 +53,9 @@ export default {
           ],
         },
       ],
+      outline: {
+        level: [2, 3, 4]
+      },
       footer: {
         message: `<em>Optimising Learning and Harnessing Experties</em> <img src="/fivecircles.svg" alt="Footer Image" style="max-width: 100px; vertical-align: middle; float: right;" />`,
       },
