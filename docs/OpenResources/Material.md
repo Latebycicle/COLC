@@ -41,6 +41,9 @@ The following websites offer a wealth of free educational materials, including t
 *   **Sci-Fi Archive (No Link Provided)**
     *   Dedicated platform for science fiction enthusiasts, featuring novels, short stories, and multimedia.
 
+## Student provided notes
+    **https://www.studocu.com/in**
+
 
 ## Disclaimer
 

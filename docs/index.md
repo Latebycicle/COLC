@@ -5,7 +5,7 @@ hero:
   name: CAPS Online Learning Center
   text: 
   image:
-    src: /fivecircles.svg
+    src: /fianlCOLC.png
     alt: CAPS logo
   tagline: Access a repository of learning resources maintained by CAPS
   actions:

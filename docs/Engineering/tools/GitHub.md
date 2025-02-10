@@ -35,7 +35,7 @@ A free subscription for students, to be renewed annually.
 
 ---
 
-<img src="https://blobaccountproduction.blob.core.windows.net/educationwebblobstorage/packcompany/412/blobs/zrbodjzm7etjd2e8hj0veq9hgnti?sp=r&sv=2018-11-09&se=2025-01-28T06%3A03%3A30Z&rscd=inline%3B+filename%3D%22Universe23+Shapes.png%22%3B+filename*%3DUTF-8%27%27Universe23%2520Shapes.png&rsct=image%2Fpng&sr=b&sig=5%2FrvTDqnkkU0mDuk5ldptC6UMgwmbhpNH5Lkcx4liN4%3D" alt="GitHub Copilot Logo" width="200">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-icon.png" alt="GitHub Copilot Logo" width="100">
 
 #### About GitHub Copilot  
 Use GitHub Copilot to get autocomplete-style suggestions from an AI pair programmer as you code.
@@ -61,7 +61,7 @@ Enjoy $200 in platform credit for 1 year!
 
 ---
 
-<img src="https://blobaccountproduction.blob.core.windows.net/educationwebblobstorage/packcompany/546/blobs/fdowhlay1lpwg4x3ua8q6z37zke1?sp=r&sv=2018-11-09&se=2025-01-28T06%3A03%3A30Z&rscd=inline%3B+filename%3D%22notion-logo.png%22%3B+filename*%3DUTF-8%27%27notion-logo.png&rsct=image%2Fpng&sr=b&sig=nkJzKWca21rjWfRl5CxmB%2BpYpPTjosaIMx8t9zeFQks%3D" alt="Notion Logo" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1200px-Notion-logo.svg.png" alt="Notion Logo" width="100">
 
 #### About Notion  
 A single space where you can think, write, and plan.
@@ -74,7 +74,7 @@ Everything in the Notion Education plan with additional AI responses.
 
 ---
 
-<img src="https://education.github.com/assets/pack/logo-microsoft-2ae66d4033f4624cc4d1a9ebebf547a5a30fed4280145e22233d2d5433e43a76.jpg" alt="Microsoft Azure Logo" width="200">
+<img src="https://education.github.com/assets/pack/logo-microsoft-2ae66d4033f4624cc4d1a9ebebf547a5a30fed4280145e22233d2d5433e43a76.jpg" alt="Microsoft Azure Logo" width="300">
 
 #### About Microsoft Azure  
 Access to Microsoft Azure cloud services and learning resources – no credit card required (for students aged 18+).
@@ -87,7 +87,7 @@ Free access to 25+ Microsoft Azure cloud services plus $100 in Azure credit.
 
 ---
 
-<img src="https://www.name.com/assets/images/logo.svg" alt="Name.com Logo" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Name.com_Logo_2023.svg/440px-Name.com_Logo_2023.svg.png" alt="Name.com Logo" width="300">
 
 #### About Name.com  
 Domains, Google Workspace, WordPress, DigitalOcean hosting, and more.
@@ -100,7 +100,7 @@ Build your online presence with a free .LIVE domain name, free privacy protectio
 
 ---
 
-<img src="https://get.tech/wp-content/uploads/2021/03/dotTECH_logo_black.svg" alt=".TECH Logo" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/DotTech_domain_logo.svg/440px-DotTech_domain_logo.svg.png" alt=".TECH Logo" width="150">
 
 #### About .TECH  
 A powerful domain extension to convey that you belong to the technology industry.
@@ -113,7 +113,7 @@ One standard .TECH domain free for 1 year.
 
 ---
 
-<img src="https://skills.github.com/_next/static/images/github-foundations-logo-light-c26f9640607618954a224612222b1930.svg" alt="GitHub Foundations Certification Logo" width="200">
+<img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="150">
 
 #### About GitHub Foundations Certification  
 Becoming GitHub certified demonstrates expertise in using GitHub effectively.
@@ -126,7 +126,7 @@ Waived fee on your first GitHub Foundations Certifications exam (worth $99).
 
 ---
 
-<img src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="GitHub Logo" width="200">
+<img src="https://static.vecteezy.com/system/resources/previews/016/833/872/non_2x/github-logo-git-hub-icon-on-white-background-free-vector.jpg" alt="GitHub Logo" width="200">
 
 #### About GitHub  
 Powerful collaboration, code review, and code management.
@@ -139,7 +139,7 @@ Free GitHub Pro while you are a student.
 
 ---
 
-<img src="https://www.heroku.com/assets/img/logo.svg" alt="Heroku Logo" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/440px-Heroku_logo.svg.png" alt="Heroku Logo" width="200">
 
 #### About Heroku  
 A flexible, easy-to-use platform to deploy, run, and manage your apps.
@@ -152,7 +152,7 @@ Enjoy a credit of $13 USD per month for 24 months.
 
 ---
 
-<img src="https://www.educative.io/static/images/logo-new.svg" alt="Educative Logo" width="200">
+<img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/09/educative_logo-freelogovectors.net_.png" alt="Educative Logo" width="100">
 
 #### About Educative  
 Discover the best learning environment to learn and retain concepts effortlessly.
@@ -165,7 +165,7 @@ Dive into 6 months of free access to over 70 practical courses, plus a 30% disco
 
 ---
 
-<img src="https://www.datacamp.com/images/logo/logo-square.png" alt="DataCamp Logo" width="200">
+<img src="https://www.datacamp.com/datacamp.png" alt="DataCamp Logo" width="200">
 
 #### About DataCamp  
 DataCamp helps companies and individuals make better use of data.
@@ -178,10 +178,10 @@ This offer is paused for maintenance and updates.
 
 ---
 
-<img src="https://codedex.io/images/codedex-logo-color.svg" alt="Codedex Logo" width="200">
+<img src="https://avatars.githubusercontent.com/u/105237839?s=200&v=4" alt="Codedex Logo" width="100">
 
 #### About Codedex  
-A brand new learn-to-code platform for Gen Z.
+Learn to code with fun, interactive courses handcrafted by industry experts and educators.
 
 ::: tip Offer
 Verified students receive 6 months of Codédex Club, a premium membership for free.
@@ -191,7 +191,7 @@ Verified students receive 6 months of Codédex Club, a premium membership for fr
 
 ---
 
-<img src="https://static.frontendmasters.com/assets/static/images/logo-square-e9c5f4ef96.png" alt="Frontend Masters Logo" width="200">
+<img src="https://static.frontendmasters.com/assets/fm/med/core/frontendmasters-dark.png" width="350">
 
 #### About Frontend Masters  
 Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses.
@@ -204,7 +204,7 @@ Free 6-months access to all courses and workshops.
 
 ---
 
-<img src="https://www.mongodb.com/static-assets/favicons/apple-icon-152x152.png" alt="MongoDB Logo" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1024px-MongoDB_Logo.svg.png?20190626143224" alt="MongoDB Logo" width="300">
 
 #### About MongoDB  
 A general purpose, document-based, distributed database built for modern application developers.
@@ -217,7 +217,7 @@ $50 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB Univers
 
 ---
 
-<img src="https://www.notion.so/cdn/react-page/799493e071634518891f5c616008598a/asset/notion-logo.svg" alt="Notion Template Collection Logo" width="200">
+<img src="https://www.notion.com/en-us/front-api/og-image/templates" alt="Notion Template Collection Logo" width="350">
 
 #### About Notion Template Collection  
 Notion and Github for Education are partnering together to bring the next generation of software to students around the world.
@@ -231,7 +231,7 @@ From setting up your CS course dashboard to running your hackathons to building 
 
 ---
 
-<img src="https://www.appwrite.io/images/logo.svg" alt="Appwrite Logo" width="200">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGA-WQSCQS5n-dlbNpaExktIFGfs-XM7qFhQ&s" alt="Appwrite Logo" width="300">
 
 #### About Appwrite  
 Appwrite is an open-source Backend-as-a-Service platform for building web, mobile, native, or backend apps.
@@ -244,7 +244,7 @@ Free access to Appwrite Pro (worth $15/month) throughout the course of your stud
 
 ---
 
-<img src="https://www.gitkraken.com/static/d845913a257481c2791e546406239662/images/logo-gitkraken.svg" alt="GitLens Logo" width="200">
+<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_983ea0f4e4326954b81dfaead2c0f6f6/gitlens.png" alt="GitLens Logo" width="250">
 
 #### About GitLens  
 GitLens is the #1 Git extension for VS Code.
@@ -257,7 +257,7 @@ Free GitKraken Pro license, enabling Pro access to GitLens and the entire GitKra
 
 ---
 
-<img src="https://code.visualstudio.com/static/images/codicon/extensions-library.svg" alt="Visual Studio Code Logo" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code Logo" width="150">
 
 #### About Visual Studio Code  
 Microsoft's goal is to empower all students with the best resources and tools as they learn to code.
@@ -270,7 +270,7 @@ These coding packs help you download everything you need to start coding in Java
 
 ---
 
-<img src="https://pages.github.com/favicon.ico" alt="GitHub Pages Logo" width="200">
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*_M3PH26KMfxZ2hBpC2I3_A.jpeg" alt="GitHub Pages Logo" width="400">
 
 #### About GitHub Pages  
 Websites for you and your projects.
@@ -296,7 +296,7 @@ Free access to all Termius Pro and Termius Team features.
 
 ---
 
-<img src="https://testmail.app/images/logo.svg" alt="Testmail Logo" width="200">
+<img src="https://avatars.githubusercontent.com/u/56960009?s=280&v=4" alt="Testmail Logo" width="100">
 
 #### About Testmail  
 Get unlimited email addresses and mailboxes for automating email tests.
@@ -309,7 +309,7 @@ Free Essential plan.
 
 ---
 
-<img src="https://static.scrimba.com/static/images/scrimba_logo_new.svg" alt="Scrimba Logo" width="200">
+<img src="https://v1.scrimba.com/static/photos/pages/community/logo-scrimba-text.svg" alt="Scrimba Logo" width="400">
 
 #### About Scrimba  
 Scrimba is an interactive learning platform for frontend developers.
@@ -335,7 +335,7 @@ Free access to Azure App Services, Azure Functions, Notification Hubs, MySQL dat
 
 ---
 
-<img src="https://getbootstrapstudio.com/img/logo.png" alt="Bootstrap Studio Logo" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bootstrap_Studio_Logo.png/768px-Bootstrap_Studio_Logo.png" alt="Bootstrap Studio Logo" width="150">
 
 #### About Bootstrap Studio  
 Bootstrap Studio is a powerful desktop app for creating responsive websites.
@@ -348,7 +348,7 @@ A free license.
 
 ---
 
-<img src="https://pomodoneapp.com/img/logo.svg" alt="PomoDone Logo" width="200">
+<img src="https://www.nesabamedia.com/wp-content/uploads/2024/02/PomoDoneApp-logo.png" alt="PomoDone Logo" width="150">
 
 #### About PomoDone  
 Hack and track your time and boost your productivity by applying Pomodoro technique to your workflow.
@@ -361,7 +361,7 @@ PomoDone Lite plan free for 2-years.
 
 ---
 
-<img src="https://www.datadoghq.com/images/dd_logo_rgb_white.svg" alt="Datadog Logo" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Datadog_logo.svg/1200px-Datadog_logo.svg.png" alt="Datadog Logo" width="150">
 
 #### About Datadog  
 Cloud-based infrastructure monitoring.
@@ -374,7 +374,7 @@ Pro Account, including 10 servers. Free for 2 years.
 
 ---
 
-<img src="https://developer.microsoft.com/en-us/visual-studio/img/downloads/vs-logo-hero.png" alt="Microsoft Visual Studio Dev Essentials Logo" width="200">
+<img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="Microsoft Visual Studio Dev Essentials Logo" width="200">
 
 #### About Microsoft Visual Studio Dev Essentials  
 Free developer tools, cloud services and training from Microsoft.
@@ -400,7 +400,7 @@ Free Pro level access to Codespaces.
 
 ---
 
-<img src="https://1password.com/static/images/one-password-logo-2x.png" alt="1Password Logo" width="200">
+<img src="https://blobaccountproduction.blob.core.windows.net/educationwebblobstorage/packcompany/370/blobs/wqbynm9vc2e71ntd98mo0n9rzccq?sp=r&sv=2018-11-09&se=2025-01-28T07%3A09%3A19Z&rscd=inline%3B+filename%3D%221Password_primary+logo_light+backgrounds_intrepid+blue.png%22%3B+filename*%3DUTF-8%27%271Password_primary%2520logo_light%2520backgrounds_intrepid%2520blue.png&rsct=image%2Fpng&sr=b&sig=xlEn1rlGLEuIt5xOTcN4Y4gXPBvgPygs31MtkiwwihA%3D" alt="1Password Logo" width="200">
 
 #### About 1Password  
 Keeps all of your important information safe and at your fingertips.
@@ -504,7 +504,7 @@ Free use of Polypane's individual plan for 1 year.
 
 ---
 
-<img src="https://www.algoexpert.io/static/images/logo.svg" alt="AlgoExpert Logo" width="200">
+<img src="https://blobaccountproduction.blob.core.windows.net/educationwebblobstorage/packcompany/332/blobs/388sg78baz07f45xqdbgre3qo4k5?sp=r&sv=2018-11-09&se=2025-01-28T07%3A09%3A19Z&rscd=inline%3B+filename%3D%22ae_logo.png%22%3B+filename*%3DUTF-8%27%27ae_logo.png&rsct=image%2Fpng&sr=b&sig=VfF6qZbQJcG5Oq%2ForS0tNrb0TouDLoObHztrzexIMWU%3D" alt="AlgoExpert Logo" width="200">
 
 #### About AlgoExpert  
 The ultimate resource to prepare for coding interviews.
@@ -582,7 +582,7 @@ Free app license.
 
 ---
 
-<img src="https://www.opensauced.pizza/images/logos/logo-gradient.svg" alt="OpenSauced Logo" width="200">
+<img src="https://blobaccountproduction.blob.core.windows.net/educationwebblobstorage/packcompany/407/blobs/zguoeb8xg5hg6a5o3nszz2vieruf?sp=r&sv=2018-11-09&se=2025-01-28T07%3A09%3A19Z&rscd=inline%3B+filename%3D%22Orange+and+Black.png%22%3B+filename*%3DUTF-8%27%27Orange%2520and%2520Black.png&rsct=image%2Fpng&sr=b&sig=hc6Is3ELzfBoBg%2BAyGkKYqgs18FfhaBbU%2BPm3mz2y30%3D" alt="OpenSauced Logo" width="200">
 
 #### About OpenSauced  
 Provides tools and courses to track, document, and grow your open source experience.

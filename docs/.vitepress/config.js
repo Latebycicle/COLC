@@ -1,8 +1,13 @@
-export default {
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
   title: "CAPS Online Learning Center",
   description: "A repo of information",
   themeConfig: {
-    logo: '/fivecircles.svg',
+    search: {
+      provider: 'local'
+    },
+    logo: '/fianlCOLC.png',
     siteTitle: "CAPS Online Learning Center",
     nav: [
       { text: "About", link: "/about" }
@@ -15,8 +20,6 @@ export default {
           text: "Engineering and Technology",
           collapsible: true,
           items: [
-            
-            { text: "Introduction", link: "/Engineering/introduction.md" },
             { text: "Certification", link: "/Engineering/Certification.md" },
             { text: "Courses", link: "/Engineering/Courses.md" },
             {
@@ -57,8 +60,26 @@ export default {
         level: [2, 3, 4]
       },
       footer: {
-        message: `<em>Optimising Learning and Harnessing Experties</em> <img src="/fivecircles.svg" alt="Footer Image" style="max-width: 100px; vertical-align: middle; float: right;" />`,
+        message: `
+          <div
+            style="
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              position: relative;
+              height: 40px;
+              margin: 0;
+              padding: 0;
+            "
+          >
+            <em style="margin: 0;">Optimising Learning and Harnessing Experties</em>
+            <img
+              src="/fivecircles.svg"
+              alt="Footer Image"
+              style="position: absolute; right: 0; top: 50%; transform: translateY(-50%); max-width: 100px;"
+            />
+          </div>
+        `,
       },
   },
-  
-};
+});

@@ -45,11 +45,24 @@ html .curtain{
 }
 
 @media (min-width: 1440px) {
-  padding-left: 0 !important; 
+  .VPSidebar[data-v-6750ea26] {
+    padding-left: 0 !important;
+  }
 }
 
 :root ::-webkit-scrollbar {
   display: none;
   -ms-overflow-style: none;
   scrollbar-width: none;
+}
+
+@media (min-width: 960px) {
+  [data-v-72cc4481] .image-src {
+      max-width: 210px;
+      height: auto;
+  }
+}
+
+.VPSiteFooter {
+  padding: 0 !important;
 }
