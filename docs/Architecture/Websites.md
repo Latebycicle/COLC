@@ -1,0 +1,112 @@
+# Architecture Firms & Blogs  
+*A Curated List of Functional Websites*  
+
+Below is a verified list of architecture firms and blogs, sourced from reliable references. Each link has been checked for functionality.  
+## **Architecture Firms**  
+
+### **A–F**  
+- [3XN](https://3xn.com)  
+- [Allied Works](https://www.alliedworks.com)  
+- [Álvaro Siza Vieira](http://www.alvarosizavieira.net)  
+- [Andersson Wise](https://www.anderssonwise.com)  
+- [Arcau](https://www.arcau.com)  
+- [Artechnic](https://www.artechnic.jp)  
+- [Atelier Zündel Cristea](http://www.azc.fr)  
+- [Belzberg Architects](https://www.belzbergarchitects.com)  
+- [Bjarke Ingels Group (BIG)](https://big.dk)  
+- [Cecil Balmond](http://www.cecilbalmond.com)  
+- [Daniel Libeskind](https://libeskind.com)  
+- [Delugan Meissl](https://www.deluganmeissl.at)  
+- [Diller Scofidio + Renfro](https://dsrny.com)  
+- [Emilio Ambasz](http://www.ambasz.com)  
+- [Fearon Hay](https://www.fearonhay.com)  
+- [Frank Gehry](https://www.foga.com)  
+- [Frank Harmon](https://www.frankharmon.com)  
+- [Fumihiko Maki](https://www.maki-and-associates.co.jp)  
+
+### **G–L**  
+- [Gramazio & Kohler](https://gramaziokohler.arch.ethz.ch)  
+- [Greg Lynn](http://glform.com)  
+- [Heliotrope](https://www.heliotropearchitects.com)  
+- [Henning Larsen](https://henninglarsen.com)  
+- [Herzog & de Meuron](https://www.herzogdemeuron.com)  
+- [HOK](https://www.hok.com)  
+- [Höweler + Yoon](https://hyarchitecture.com)  
+- [Hyde + Hyde](https://hydeandhydearchitects.com)  
+- [inarc](https://www.inarc.com)  
+- [Jakob + Macfarlane](https://www.jakobmacfarlane.com)  
+- [Jarmund/Vigsnæs](https://www.jva.no)  
+- [Jürgen Mayer](https://www.jmayerh.de)  
+- [Jonathan Segal / Architect As Developer](https://www.segalarchitecture.com)  
+- [Jose Maria Saez](http://www.josemariasaez.com)  
+- [K2S](https://www.k2s.fi)  
+- [Kengo Kuma](https://kkaa.co.jp)  
+- [Kino](https://www.kino-arch.com)  
+- [lee + mundwiler](https://www.leemundwiler.com)  
+- [Liong Lie](https://www.liong-lie.com)  
+
+### **M–R**  
+- [MAD Architects](https://www.i-mad.com)  
+- [Marcio Kogan](https://www.marciokogan.com.br)  
+- [Mecanoo](https://www.mecanoo.nl)  
+- [Morphosis](https://www.morphosis.com)  
+- [MVRDV](https://www.mvrdv.nl)  
+- [NADAAA](https://www.nadaaa.com)  
+- [Neil Denari](https://www.neildenari.com)  
+- [Nicolas Del Rio](https://www.nicolasdelrio.com)  
+- [Nieto Sobejano](https://www.nietosobejano.com)  
+- [NL Architects](https://www.nlarchitects.nl)  
+- [Norman Foster](https://www.fosterandpartners.com)  
+- [Ole Scheeren](https://www.olescheeren.com)  
+- [Olson Kundig](https://olsonkundig.com)  
+- [OMA](https://www.oma.com)  
+- [Omar Gandhi](https://www.omargandhi.com)  
+- [Pasel Kuenzel](https://www.paselkuenzel.com)  
+- [Peter Eisenman](https://www.eisenmanarchitects.com)  
+- [Peter Marino](https://www.petermarinoarchitect.com)  
+- [Peter Zumthor](https://www.peterzumthor.com)  
+- [Reiser Umemoto](https://www.reiser-umemoto.com)  
+- [Renzo Piano](https://www.rpbw.com)  
+- [REX](https://www.rex-ny.com)  
+
+### **S–Z**  
+- [SANAA](https://www.sanaa.co.jp)  
+- [Santiago Calatrava](https://www.calatrava.com)  
+- [Snohetta](https://snohetta.com)  
+- [Steven Holl](https://www.stevenholl.com)  
+- [Studio Gang](https://studiogang.com)  
+- [Studio Moffitt](https://www.studiomoffitt.com)  
+- [Studio Mumbai](https://www.studiomumbai.com)  
+- [Tadao Ando](https://www.tadao-ando.com)  
+- [Tod Williams Billie Tsien](https://www.twbta.com)  
+- [Tham & Videgård](https://www.thamvidegard.se)  
+- [Thomas Heatherwick](https://www.heatherwick.com)  
+- [Toyo Ito](https://www.toyo-ito.co.jp)  
+- [UNStudio](https://www.unstudio.com)  
+- [Willy Müller](https://www.willymuller.com)  
+- [XTEN](https://www.xten.com)  
+- [Zaha Hadid](https://www.zaha-hadid.com)  
+
+---
+
+## **Architecture Blogs & Websites**  
+
+- [Arch Daily](https://www.archdaily.com)  
+- [Archinect](https://archinect.com)  
+- [Architizer](https://architizer.com)  
+- [Architonic Products and Materials](https://www.architonic.com)  
+- [Contemporist](https://www.contemporist.com)  
+- [Daily Tonic](https://www.dailytonic.com)  
+- [Death By Architecture](https://www.deathbyarchitecture.com)  
+- [Design Boom](https://www.designboom.com)  
+- [Design Milk](https://www.design-milk.com)  
+- [Design Reform](https://www.designreform.net)  
+- [Dezeen](https://www.dezeen.com)  
+- [I Like Architecture](https://www.ilikearchitecture.net)  
+- [Japan Architecture + Urbanism](https://www.japan-architect.co.jp)  
+- [Leibal](https://www.leibal.com)  
+- [What We Do Is Secret](https://www.whatwedoissecret.co)  
+
+---
+
+*Note: All links were verified as functional as of February 2024*  

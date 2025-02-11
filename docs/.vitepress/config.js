@@ -10,7 +10,8 @@ export default defineConfig({
     logo: '/fianlCOLC.png',
     siteTitle: "CAPS Online Learning Center",
     nav: [
-      { text: "About", link: "/about" }
+      { text: "About", link: "/about" },
+      { text: "Team", link: "/team" }
     ],
     socialLinks: [
       { icon: "instagram", link: "https://www.instagram.com/caps.kengeri/" }
@@ -36,6 +37,15 @@ export default defineConfig({
           collapsible: false,
           items: [
             { text: "Physical Psychology", link: "/Psychology/PhysicalPsychology" },
+            { text: "From your Professors", link: "/Psychology/professors"},
+          ]
+        },
+        {
+          text: "Architecture",
+          collapsible: false,
+          items: [
+            { text: "Material", link: "/Architecture/Material" },
+            { text: "Architecture Firm Websites", link: "/Architecture/Websites.md" },
           ],
         },
         {
@@ -43,6 +53,7 @@ export default defineConfig({
           collapsible: true,
           items: [
             { text: "Textbooks/Papers", link: "/OpenResources/Material.md" },
+            { text: "Ai Tools", link: "/OpenResources/AiTools.md" },
             {
               text: "Tools",
               collapsible: true,

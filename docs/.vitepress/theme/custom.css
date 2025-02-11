@@ -26,20 +26,21 @@ html {
 
 html.dark {
     color-scheme: dark;
-    --vp-c-brand-1: rgb(236,225,211); /* Light color for dark mode */
+    --vp-c-brand-1: rgb(236,225,211); /*Light color for dark mode */
+    --vp-c-brand-1: rgb(255, 255, 255); 
     --vp-c-brand-3: rgb(40,48,93);
     background-color: var(--vp-nav-bg-color);
 }
 
-html.dark .curtain {
+/* html.dark .curtain {
   background-color: var(--vp-nav-bg-color);
 }
 
 html .curtain{
   background-color: var(--vp-nav-bg-color) !important;
-}
+} */
 
-.VPSidebar[data-v-6750ea26] {
+/* .VPSidebar[data-v-6750ea26] {
   padding-left: none !important;
   width: calc((100% -(var(--vp-layout-max-width) - 64px)) / 2 + var(--vp-sidebar-width) - 32px);
 }
@@ -48,6 +49,10 @@ html .curtain{
   .VPSidebar[data-v-6750ea26] {
     padding-left: 0 !important;
   }
+} */
+
+.title[data-v-55e263fd] {
+  font-size: 0.90em;
 }
 
 :root ::-webkit-scrollbar {
@@ -63,6 +68,6 @@ html .curtain{
   }
 }
 
-.VPSiteFooter {
-  padding: 0 !important;
+.VPFooter {
+  padding: 25px !important;
 }

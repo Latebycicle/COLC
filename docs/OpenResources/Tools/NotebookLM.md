@@ -3,6 +3,7 @@
 NotebookLM is an experimental AI-powered tool designed to help you organize, understand, and utilize your notes and research materials more effectively. It's particularly useful for students who need to synthesize information from multiple sources.
 
 ---
+<br>
 <img src="https://notebooklm.google/_/static/branding/v4/light_mode/notebook-logo.svg" alt="My Image" width="600"></img>
 
 ## What is NotebookLM?
