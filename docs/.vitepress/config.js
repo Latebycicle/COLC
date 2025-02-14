@@ -77,18 +77,17 @@ export default defineConfig({
             style="
               display: flex;
               align-items: center;
+              gap: 20px;
+              flex-wrap: wrap;
               justify-content: center;
-              position: relative;
-              height: 40px;
-              margin: 0;
-              padding: 0;
+              padding: 0 16px;
             "
           >
-            <em style="margin: 0;">Optimising Learning and Harnessing Expertise</em>
+            <em style="margin: 0; text-align: center;">Optimising Learning and Harnessing Expertise</em>
             <img
-              src="/fivecircles.svg"
+              src="./FC.png"
               alt="Footer Image"
-              style="position: absolute; right: 0; top: 50%; transform: translateY(-50%); max-width: 100px;"
+              style="max-width: 100px; height: auto;"
             />
           </div>
         `,

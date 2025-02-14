@@ -52,7 +52,7 @@ html .curtain{
 } */
 
 .title[data-v-55e263fd] {
-  font-size: 0.90em;
+  font-size: 0.90em !important;
 }
 
 :root ::-webkit-scrollbar {
@@ -63,11 +63,13 @@ html .curtain{
 
 @media (min-width: 960px) {
   [data-v-72cc4481] .image-src {
-      max-width: 210px;
+      max-width: 210px !important;
       height: auto;
   }
 }
 
-.VPFooter {
+/* .VPFooter {
   padding: 25px !important;
-}
+} */
+
+/* Footer responsive layout */
