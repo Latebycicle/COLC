@@ -16,7 +16,7 @@ def is_link_functional(url):
         return response.status_code < 400
     except requests.RequestException:
         return False
-
+    
 output_lines = []
 with open(filename, 'r', encoding='utf-8') as file:
     for line in file:

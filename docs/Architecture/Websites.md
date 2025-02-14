@@ -1,10 +1,10 @@
 # Architecture Firms & Blogs  
 *A Curated List of Functional Websites*  
 
-Below is a verified list of architecture firms and blogs, sourced from reliable references. Each link has been checked for functionality.  
+Below is a verified list of architecture firms and blogs, sourced from reliable references. Each link has been checked for functionality.       
 ## **Architecture Firms**  
 
-### **A–F**  
+### **A–F** 
 - [3XN](https://3xn.com)  
 - [Allied Works](https://www.alliedworks.com)  
 - [Álvaro Siza Vieira](http://www.alvarosizavieira.net)  

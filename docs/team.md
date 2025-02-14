@@ -20,7 +20,7 @@ const coreMembers = [
     ]
   },
   {
-    avatar: 'https://github.com/bencodezen.png',
+    avatar: 'https://github.com/Keona-Liz-C',
     name: 'Keona Liz Croning',
     title: 'Content writer',
     links: [
@@ -32,48 +32,23 @@ const coreMembers = [
     name: 'Bhavya Singh',
     title: 'Content Writer',
     links: [
-      { icon: 'github', link: 'https://github.com/mariag' },
+      { icon: 'github', link: 'https://github.com/johndoe' },
       { icon: 'twitter', link: 'https://twitter.com/mariag' }
     ]
   },
   {
     avatar: 'https://github.com/antfu.png',
     name: 'Vanshi Nair',
-    title: 'Graphic Designer',
+    title: 'Content Writer',
     links: [
       { icon: 'github', link: 'https://github.com/mariag' },
       { icon: 'twitter', link: 'https://twitter.com/mariag' }
     ]
-  }
+  },
 ]
 
 const partners = [
-  {
-    avatar: 'https://github.com/bencodezen.png',
-    name: 'Keona Liz Croning',
-    title: 'Content writer',
-    links: [
-      { icon: 'github', link: 'https://github.com/alexj' }
-    ]
-  },
-  {
-    avatar: 'https://github.com/antfu.png',
-    name: 'Bhavya Singh',
-    title: 'Content Writer',
-    links: [
-      { icon: 'github', link: 'https://github.com/mariag' },
-      { icon: 'twitter', link: 'https://twitter.com/mariag' }
-    ]
-  },
-  {
-    avatar: 'https://github.com/antfu.png',
-    name: 'Vanshi Nair',
-    title: 'Graphic Designer',
-    links: [
-      { icon: 'github', link: 'https://github.com/mariag' },
-      { icon: 'twitter', link: 'https://twitter.com/mariag' }
-    ]
-  }
+  
 ]
 </script>
 
@@ -84,10 +59,10 @@ const partners = [
   </VPTeamPageTitle>
   <VPTeamMembers size="medium" :members="coreMembers" />
   <VPTeamPageSection>
-    <template #title>Members</template>
+    <!-- <template #title>Members</template>
     <template #lead>Valued contributors</template>
     <template #members>
       <VPTeamMembers size="small" :members="partners" />
-    </template>
+    </template> -->
   </VPTeamPageSection>
 </VPTeamPage>

@@ -83,7 +83,7 @@ export default defineConfig({
               padding: 0;
             "
           >
-            <em style="margin: 0;">Optimising Learning and Harnessing Experties</em>
+            <em style="margin: 0;">Optimising Learning and Harnessing Expertise</em>
             <img
               src="/fivecircles.svg"
               alt="Footer Image"
