@@ -67,6 +67,17 @@ export default defineConfig({
             }
           ],
         },
+        {
+          text: "Library",
+          collapsible: true,
+          items: [
+            { text: "General Information", link: "/Library/Library" },
+
+            { text: "Resources", link: "/Library/Resources" },
+
+            
+          ],
+        },
       ],
       outline: {
         level: [2, 3, 4]

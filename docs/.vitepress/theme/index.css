@@ -54,6 +54,13 @@ html .curtain{
 .title[data-v-55e263fd] {
   font-size: 0.90em !important;
 }
+.title[data-v-1168a8e4] {
+  font-size: 0.90em !important;
+}
+
+.title {
+  font-size: 0.9em;
+}
 
 :root ::-webkit-scrollbar {
   display: none;
