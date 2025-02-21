@@ -19,14 +19,18 @@ export default defineConfig({
     ],
     sidebar: [
         {
+          text: "COLC",
+          items: [
+            { text: "Welcome", link: "/COLC/welcome.md" },
+          ],
+        },
+        {
           text: "Engineering and Technology",
-          collapsible: true,
           items: [
             { text: "Certification", link: "/Engineering/Certification.md" },
             { text: "Courses", link: "/Engineering/Courses.md" },
             {
               text: "Tools",
-              collapsible: true,
               items: [
                 { text: "🎓 Github Education", link: "/Engineering/tools/GitHub.md" },
               ],
@@ -35,7 +39,6 @@ export default defineConfig({
         },
         {
           text: "Psychology",
-          collapsible: false,
           items: [
             { text: "Physical Psychology", link: "/Psychology/PhysicalPsychology" },
             { text: "From your Professors", link: "/Psychology/professors"},
@@ -43,7 +46,6 @@ export default defineConfig({
         },
         {
           text: "Architecture",
-          collapsible: false,
           items: [
             { text: "Material", link: "/Architecture/Material" },
             { text: "Architecture Firm Websites", link: "/Architecture/Websites.md" },
@@ -51,13 +53,12 @@ export default defineConfig({
         },
         {
           text: "Open Resources",
-          collapsible: true,
           items: [
             { text: "Textbooks/Papers", link: "/OpenResources/Material.md" },
             { text: "Ai Tools", link: "/OpenResources/AiTools.md" },
             {
               text: "Tools",
-              collapsible: true,
+              collapsed: false,
               items: [
                 { text: "Grammarly Premium", link: "/OpenResources/Tools/grammarly.md" },
                 { text: "Figma", link: "/OpenResources/Tools/Figma.md" },
@@ -68,8 +69,7 @@ export default defineConfig({
           ],
         },
         {
-          text: "Library",
-          collapsible: true,
+          text: "Christ Library",
           items: [
             { text: "General Information", link: "/Library/Library" },
 

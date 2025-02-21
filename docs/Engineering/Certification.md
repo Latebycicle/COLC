@@ -1,7 +1,7 @@
 # Certification Courses  
 *Explore Free and Institution-Provided Learning Opportunities*  
 
-Certification courses are an excellent way to enhance your skills and boost your career prospects. Below is a curated list of platforms offering free and institution-provided certification courses to help you advance in your field.  
+ Below is a curated list of platforms offering free and institution-provided certification courses to help you advance in your field.  
 
 
 ## **Open Certification Courses**  

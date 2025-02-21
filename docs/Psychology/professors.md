@@ -6,7 +6,7 @@ This curated list of resources is designed to support your research, writing, an
 
 ## **Writing & Citation Tools**  
 
-### **[APA Format Guide (Purdue OWL)](http://purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html)**  
+### **[APA Format Guide (Purdue OWL)](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html)**  
 The Purdue Online Writing Lab (OWL) is a trusted resource for mastering APA formatting and citation rules. It provides detailed examples for references, in-text citations, and paper formatting, making it an essential tool for writing research papers and essays.  
 - **Why it’s useful**: Avoid common formatting mistakes and ensure your papers meet academic standards.  
 - **Pro Tip**: Bookmark this page for quick access during your writing process.  
@@ -16,19 +16,9 @@ Scribbr is a free online tool that generates accurate citations in APA and MLA f
 - **Why it’s useful**: Save time on formatting references and improve the quality of your writing.  
 - **Pro Tip**: Use the grammar checker to polish your final drafts before submission.  
 
-### **Grammarly Pro & Knimbus**  
-- **[Grammarly Pro](https://www.grammarly.com/)**: Available through Christ’s institutional access, Grammarly Pro offers advanced grammar, punctuation, and plagiarism checks. It’s perfect for refining your essays and research papers.  
-- **[Knimbus](https://christuniversity.in)**: Access scholarly articles, e-books, and journals through Christ University’s library portal.  
-- **Why they’re useful**: Grammarly ensures error-free writing, while Knimbus provides access to a wealth of academic resources.  
-
 ---
 
 ## **Research & Article Access**  
-
-### **[Sci-Hub](https://sci-hub.se/)**  
-Sci-Hub is a platform that provides free access to paywalled research articles. Simply enter the DOI or title of the paper to download it.  
-- **Why it’s useful**: Access research papers that are otherwise behind expensive paywalls.  
-- **Note**: Use this resource ethically and responsibly.  
 
 ### **[Typeset.io](https://typeset.io/)**  
 Typeset.io is an AI-powered tool that helps you discover, organize, and summarize research papers. It’s particularly useful for narrowing down relevant articles and identifying key trends in your research area.  
@@ -50,10 +40,8 @@ ResearchGate is a social networking site for researchers. You can connect with a
 - **[ERIC](https://eric.ed.gov/)**: A database focused on education-related psychology studies.  
 - **Why they’re useful**: Access high-quality, peer-reviewed research articles for free.  
 
-### **Scopus & Web of Science**  
+### **Scopus**  
 - **[Scopus](https://www.scopus.com/)**: A comprehensive database for tracking citations and exploring high-impact journals.  
-- **[Web of Science](https://mjl.clarivate.com/)**: Another powerful tool for discovering influential research articles.  
-- **Why they’re useful**: Identify key papers and track research trends in your field.  
 
 ### **[UGC CARE List](https://ugccare.unipune.ac.in/Apps1/User/Web/SearchJournal)**  
 The UGC CARE list helps you verify journals approved by the University Grants Commission (UGC) for credible publications.  
@@ -97,7 +85,7 @@ SPSS (Statistical Package for the Social Sciences) is a powerful tool for statis
 A structured guide to writing literature reviews, covering everything from topic selection to synthesis.  
 - **Why it’s useful**: Master the art of reviewing and organizing existing research.  
 
-### **[Free Psychology Books (PDF Drive)](https://www.pdfdrive.to/)**  
+### **[Free Psychology Books (PDF Drive)](https://www.pdfdrive.to/categories/65-psychology)**  
 Access free psychology textbooks and reference books for your studies.  
 - **Why it’s useful**: Save money on expensive textbooks and access a wide range of materials.  
 

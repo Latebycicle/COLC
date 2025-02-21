@@ -11,15 +11,17 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /welcome
+      link: /COLC/welcome
 
 
 features:
   - icon: 📝
     title: Certifications
+    link: /Engineering/Certification
     details: Access Free certifications from across the web
   - icon: ✅
     title: Courses
+    link: /Engineering/Courses
     details: Courses curated by your department to help you grow
   - icon: 📜
     title: Speed up your Research
