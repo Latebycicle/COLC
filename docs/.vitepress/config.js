@@ -12,10 +12,15 @@ export default defineConfig({
     siteTitle: "CAPS Online Learning Center",
     nav: [
       { text: "About", link: "/about" },
-      { text: "Team", link: "/team" }
+      { text: "Team", link: "/team" },
+      {
+        component: 'logo',
+      },
     ],
     socialLinks: [
-      { icon: "instagram", link: "https://www.instagram.com/caps.kengeri/" }
+      { icon: "instagram", link: "https://www.instagram.com/caps.kengeri/" },
+      { icon: "linkedin", link: "https://www.linkedin.com/company/caps-centre-for-academic-and-professional-support/?originalSubdomain=in" },
+      { icon: "facebook", link: "https://www.facebook.com/caps.christuniversity/" }
     ],
     sidebar: [
         {

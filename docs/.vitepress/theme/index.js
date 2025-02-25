@@ -1,8 +1,12 @@
 import DefaultTheme from 'vitepress/theme'
+import logo from './components/logo.vue'
 
 import './index.css'
 
 export default {
-    ...DefaultTheme,
+  ...DefaultTheme,
+  enhanceApp({ app }) {
+    app.component('logo', logo)
 
   }
+}

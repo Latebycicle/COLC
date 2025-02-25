@@ -51,6 +51,10 @@ html .curtain{
   }
 } */
 
+.action {
+  font-size: 0.9em !important;
+}
+
 .title[data-v-55e263fd] {
   font-size: 0.90em !important;
 }

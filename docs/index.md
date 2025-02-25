@@ -12,6 +12,9 @@ hero:
     - theme: brand
       text: Get Started
       link: /COLC/welcome
+    - theme: alt
+      text: View on GitHub
+      link: https://github.com/Latebycicle/COLC
 
 
 features:
@@ -25,8 +28,10 @@ features:
     details: Courses curated by your department to help you grow
   - icon: 📜
     title: Speed up your Research
-    details: Find your Libraries and CC Papers all in one place!
+    link: /OpenResources/Material
+    details: Find Papers aggregators and AI tools all in one place!
   - icon: 🧠
     title: Enhance Learning
+    link: /COLC/welcome
     details: Speed up your learning process now
 ---

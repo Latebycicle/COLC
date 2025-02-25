@@ -8,7 +8,6 @@ Welcome to the **CAPS Online Learning Center**, a centralized platform designed 
 - 📖 **Reading Materials** – Access journals, research papers, books, and other academic content.
 - 🏛 **Workshops and Events** – Stay updated on upcoming seminars, guest lectures, and training sessions.
 - 🔧 **Software and Tools** – Discover free and paid resources useful for academic and professional development.
-- ⭐ **Bookmarking** – Save frequently accessed resources for quick retrieval.
 
 ## Getting Started
 Follow these steps to set up and contribute to the project:
