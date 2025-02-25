@@ -36,15 +36,6 @@ const coreMembers = [
       { icon: 'twitter', link: 'https://twitter.com/mariag' }
     ]
   },
-  {
-    avatar: 'https://github.com/antfu.png',
-    name: 'Vanshi Nair',
-    title: 'Content Writer',
-    links: [
-      { icon: 'github', link: 'https://github.com/mariag' },
-      { icon: 'twitter', link: 'https://twitter.com/mariag' }
-    ]
-  },
 ]
 
 const partners = [

@@ -32,3 +32,4 @@ Welcome to the **Get Started** section! Here’s how you can make the most of th
 
 ---
 We’re excited to have you explore this platform and utilize the resources we’ve curated for your academic and professional journey. If you have any questions or require assistance, don’t hesitate to reach out to the CAPS team.
+

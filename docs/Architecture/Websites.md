@@ -2,7 +2,26 @@
 *A Curated List of Functional Websites*  
 
 Below is a verified list of architecture firms and blogs, sourced from reliable references. Each link has been checked for functionality.       
-## **Architecture Firms**  
+
+## **Architecture Blogs & Websites**  
+
+- [Arch Daily](https://www.archdaily.com)  
+- [Archinect](https://archinect.com)  
+- [Architizer](https://architizer.com)  
+- [Architonic Products and Materials](https://www.architonic.com)  
+- [Contemporist](https://www.contemporist.com)  
+- [Daily Tonic](https://www.dailytonic.com)  
+- [Death By Architecture](https://www.deathbyarchitecture.com)  
+- [Design Boom](https://www.designboom.com)  
+- [Design Milk](https://www.design-milk.com)  
+- [Design Reform](https://www.designreform.net)  
+- [Dezeen](https://www.dezeen.com)  
+- [I Like Architecture](https://www.ilikearchitecture.net)  
+- [Japan Architecture + Urbanism](https://www.japan-architect.co.jp)  
+- [Leibal](https://www.leibal.com)  
+- [What We Do Is Secret](https://www.whatwedoissecret.co)  
+
+## **Architecture Firm Sites**  
 
 ### **A–F** 
 - [3XN](https://3xn.com)  
@@ -87,26 +106,4 @@ Below is a verified list of architecture firms and blogs, sourced from reliable 
 - [XTEN](https://www.xten.com)  
 - [Zaha Hadid](https://www.zaha-hadid.com)  
 
----
-
-## **Architecture Blogs & Websites**  
-
-- [Arch Daily](https://www.archdaily.com)  
-- [Archinect](https://archinect.com)  
-- [Architizer](https://architizer.com)  
-- [Architonic Products and Materials](https://www.architonic.com)  
-- [Contemporist](https://www.contemporist.com)  
-- [Daily Tonic](https://www.dailytonic.com)  
-- [Death By Architecture](https://www.deathbyarchitecture.com)  
-- [Design Boom](https://www.designboom.com)  
-- [Design Milk](https://www.design-milk.com)  
-- [Design Reform](https://www.designreform.net)  
-- [Dezeen](https://www.dezeen.com)  
-- [I Like Architecture](https://www.ilikearchitecture.net)  
-- [Japan Architecture + Urbanism](https://www.japan-architect.co.jp)  
-- [Leibal](https://www.leibal.com)  
-- [What We Do Is Secret](https://www.whatwedoissecret.co)  
-
----
-
-*Note: All links were verified as functional as of February 2024*  
+<br>

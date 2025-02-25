@@ -20,7 +20,8 @@ export default defineConfig({
     socialLinks: [
       { icon: "instagram", link: "https://www.instagram.com/caps.kengeri/" },
       { icon: "linkedin", link: "https://www.linkedin.com/company/caps-centre-for-academic-and-professional-support/?originalSubdomain=in" },
-      { icon: "facebook", link: "https://www.facebook.com/caps.christuniversity/" }
+      { icon: "facebook", link: "https://www.facebook.com/caps.christuniversity/" },
+      { icon: "github", link: "https://github.com/Latebycicle/COLC" }
     ],
     sidebar: [
         {

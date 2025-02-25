@@ -12,7 +12,7 @@ Class Central is a comprehensive directory of **Massive Open Online Courses (MOO
 - **Key Features**:  
   - Aggregates courses from multiple platforms.  
   - Provides detailed information about course content, duration, and certifications.  
-- **Recommended Use**: Ideal for finding free certification and courses across diverse fields.  
+- **Recommended Use**: You can set the Certification Filter to "Free" to find free certification courses
 
 
 ### **[Free Code Camp](https://www.freecodecamp.org/)**  
@@ -21,7 +21,6 @@ Free Code Camp offers **free online courses and certifications** in web developm
 - **Key Features**:  
   - Completely free with no hidden costs.  
   - Certifications are earned by completing real-world projects.  
-- **Recommended Use**: Start with the Responsive Web Design certification for beginners.  
 
 
 ### **[DataCamp (Through GitHub Education)](../Engineering/tools/GitHub)**  
@@ -40,13 +39,12 @@ MatLab offers courses and certifications in **Artificial Intelligence, Deep Lear
 
 - **Key Features**:  
   - Tailored for students with industry-relevant content.  
-  - Includes certifications in high-demand areas.  
-- **Recommended Use**: Check with your institution for additional resources or support.  
+  - Includes certifications in high-demand areas such as Deep learning and Artificial Intelligence.
 
 
 ## **Why Pursue Certification Courses?**  
 1. **Skill Enhancement**: Gain expertise in high-demand areas.  
 2. **Career Advancement**: Add certifications to your resume and LinkedIn profile to stand out to employers.  
-3. **Flexible Learning**: Access courses online at your own pace.  
+3. **Resume Building**: Adding certifications to your resume will show your employer that you have the relevant skills.
 
-Explore these platforms to find the right certification courses for your career goals.  
+Use these platforms to find the right certification courses for your career goals.  

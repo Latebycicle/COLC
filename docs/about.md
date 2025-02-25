@@ -1,4 +1,4 @@
-<h1 class="capsh"> About </h1>
+<h1 class="capsh"> About </h1> <Badge type="tip" text="Featured"/>
 
 The Centre for Academic and Professional Support is a team of student volunteers who aims to help their peers bridge the gap between the academia and the professional spheres through skill-sharing. The team extends their support to students, faculty, researchers and any individual who would require it. We help them face daunting tasks such as resume writing and appearing for job interviews and more! The volunteers are assisted by research scholars and faculty mentors whose experience and knowledge extend beyond what is taught in classrooms.
 
