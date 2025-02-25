@@ -2,6 +2,9 @@
 
 Welcome to the **CAPS Online Learning Center**, a centralized platform designed to provide students of **Christ (Deemed to be) University, Kengeri Campus** with access to curated academic and professional resources. This repository hosts the development of the website, built to enhance learning and career growth by offering courses, certifications, reading materials, and more.
 
+## Live Preview
+🌐 Check out the live version of the platform at [https://latebycicle.github.io](https://latebycicle.github.io)
+
 ## Features
 - 📚 **Organized Resources** – Categorized by **Department** and **Resource Type** for easy navigation.
 - 🎓 **Online Courses and Certifications** – Curated programs to upskill and gain industry-recognized credentials.

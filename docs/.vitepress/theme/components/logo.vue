@@ -1,7 +1,7 @@
 <template>
     <div class="nav-logos">
       <a href="https://caps.christuniversity.in" target="_blank"><img src="/CAPSonlylogo.png" alt="CAPS Logo" class="nav-logo capslogo" /> </a>
-      <a href="https://christuniversity.in" target="_blank"><img src="../../../christ-uni.png" alt="Logo 2" class="nav-logo" /> </a>
+      <a href="https://christuniversity.in" target="_blank"><img src="/christ-uni.png" alt="Logo 2" class="nav-logo" /> </a>
     </div>
   </template>
   
