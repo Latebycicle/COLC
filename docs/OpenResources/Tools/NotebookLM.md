@@ -1,6 +1,8 @@
-# NotebookLM: Your AI-Powered Research and Study Assistant
+# [NotebookLM: Your AI-Powered Research and Study Assistant](https://notebooklm.google.com)
 
-NotebookLM is an experimental AI-powered tool designed to help you organize, understand, and utilize your notes and research materials more effectively. It's particularly useful for students who need to synthesize information from multiple sources.
+NotebookLM is an AI-powered tool that lets you upload and chat with your PDFs, presentations, syllabus document, textbooks and any external reading material, all in one place. 
+
+It's designed to help you organize, understand, and utilize your notes and research materials more effectively. It's particularly useful for students who need to synthesize information from multiple sources.
 
 ---
 <br>

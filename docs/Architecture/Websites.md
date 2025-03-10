@@ -7,19 +7,20 @@ Below is a verified list of architecture firms and blogs, sourced from reliable 
 
 - [Arch Daily](https://www.archdaily.com)  
 - [Archinect](https://archinect.com)  
+- [Dezeen](https://www.dezeen.com)  
 - [Architizer](https://architizer.com)  
-- [Architonic Products and Materials](https://www.architonic.com)  
+- [Bjarke Ingels Group (BIG)](https://big.dk)
+- [Architectuul](https://architectuul.com)
 - [Contemporist](https://www.contemporist.com)  
 - [Daily Tonic](https://www.dailytonic.com)  
-- [Death By Architecture](https://www.deathbyarchitecture.com)  
 - [Design Boom](https://www.designboom.com)  
 - [Design Milk](https://www.design-milk.com)  
-- [Design Reform](https://www.designreform.net)  
-- [Dezeen](https://www.dezeen.com)  
-- [I Like Architecture](https://www.ilikearchitecture.net)  
-- [Japan Architecture + Urbanism](https://www.japan-architect.co.jp)  
+- [Japan Architecture + Urbanism](https://www.japan-architect.co.jp)
 - [Leibal](https://www.leibal.com)  
-- [What We Do Is Secret](https://www.whatwedoissecret.co)  
+- [What We Do Is Secret](https://www.whatwedoissecret.org/madebyblog/category/architecture/)  
+- [ArcHello](https://archello.com)
+- [Re-Thinking the Future](https://www.re-thinkingthefuture.com/category/architecture/)
+- [Architonic Products and Materials](https://www.architonic.com)  
 
 ## **Architecture Firm Sites**  
 

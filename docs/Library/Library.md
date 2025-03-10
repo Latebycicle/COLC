@@ -101,7 +101,7 @@ For research or service queries, contact the librarian in person or via email: `
 Faculty and students can request book purchases by emailing the librarian. Students should route requests through their department head.
 
 ## Expectations from Library Users
-- Carry your **ID card** for transactions (non-transferable)
+- Carry your **ID card** for transactions
 - Maintain **silence** in the library
 - Follow **University dress code**
 - **No cell phones** inside the library
@@ -112,10 +112,9 @@ Faculty and students can request book purchases by emailing the librarian. Stude
 ## Library Timings
 | Days                  | Timings       |
 |----------------------|--------------|
-| Monday - Saturday   | 8:00 AM - 9:00 PM |
-| 3rd Saturday        | 9:00 AM - 6:00 PM |
+| Monday - Friday  | 8:00 AM - 9:00 PM |
 | Sunday             | 10:00 AM - 6:00 PM |
-| Vacation (Mon-Sat)  | 8:00 AM - 5:00 PM |
+| Vacation (Mon-Fri)  | 8:00 AM - 5:00 PM |
 
 
 > [!NOTE]

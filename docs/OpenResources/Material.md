@@ -68,7 +68,7 @@ A digital library offering free access to an extensive collection of books, rese
 ### **[Z-Library](https://z-lib.id)**  
 One of the largest free digital libraries, hosting millions of books and articles.   
 
-> Z-Library sites blocked in India following a [High Court order](https://entrackr.com/2022/08/exclusive-z-library-sites-blocked-in-india-following-court-order/). Please use [Anne's Archive](#anne-s-archive) as it scrapes from Z-Library
+> Z-Library sites are blocked in India following a [High Court order](https://entrackr.com/2022/08/exclusive-z-library-sites-blocked-in-india-following-court-order/). Please use [Anne's Archive](#anne-s-archive) as it scrapes from Z-Library
 
 
 ## AI Tools for Research
