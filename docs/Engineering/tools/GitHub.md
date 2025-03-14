@@ -6,8 +6,32 @@
 
 **NOTE** : This list is not exhaustive, and the specific offers may change over time. Students should visit the GitHub Education website to see the current offerings and eligibility requirements.
 
----
+## Signing up
 
+1. Go to the [GitHub Education Pack](https://education.github.com/pack) page. 
+2. Sign up for a GitHub account if you don't have one.
+3. Under "Select your role in education", select Student. In the "Application" dialog, enter the name of your school. If required, select or add the email address you use for school.
+
+4. Click Continue, and then you will be prompted to upload proof of your academic status. 
+> Ensure that you use your `Christ ID` card as your proof of academic status for best chances of getting accepted. 
+
+![](https://docs.github.com/assets/cb-46797/mw-1440/images/help/education/upload-proof-status.webp)
+
+5. Verify your application details, then click Process my application.
+
+If your application is approved, you'll receive a confirmation email. Applications are usually processed within a few days, but it may take longer during peak times, such as during the start of a new semester.
+
+::: tip NOTE
+If, after clicking the Process my application button, you see a banner asking you to fix something in your application, you should fix it and then click Reprocess my application.
+::: 
+
+
+## Offers from the GitHub Student Developer Pack
+
+*Listed below are some of the benifits that you can avail from the github student developer pack*
+
+---
+<br>
 <img src="https://education.github.com/assets/pack/logo-namecheap-7ecd22457a4ee5617490ba4cc16b1c15ee97c7ff87d5c47cea0352f7b87ab2b8.jpg" alt="Namecheap Logo" width="200">
 
 ### About Namecheap  

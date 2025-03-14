@@ -67,6 +67,7 @@ export default defineConfig({
               collapsed: false,
               items: [
                 { text: "Grammarly Premium", link: "/OpenResources/Tools/grammarly.md" },
+                { text: "Claude", link: "/OpenResources/Tools/Claude.md" },
                 { text: "Figma", link: "/OpenResources/Tools/Figma.md" },
                 { text: "Notion", link: "/OpenResources/Tools/Notion.md" },
                 { text: "NotebookLM", link: "/OpenResources/Tools/NotebookLM.md" },
