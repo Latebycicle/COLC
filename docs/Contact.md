@@ -31,4 +31,3 @@ For technical support or urgent matters, please contact the team lead directly.
 Your feedback is valuable to us and helps improve our services. Please share your thoughts, suggestions, or report any issues you've encountered.
 
 <a data-v-2dba8ca9="" data-v-72cc4481="" class="VPButton medium brand" href="https://forms.gle/Qf7xnCNXTtSL6iz69" target="_blank" style="font-weight: normal;">Feedback</a>
-

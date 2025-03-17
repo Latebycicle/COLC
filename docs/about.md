@@ -17,7 +17,7 @@ This platform is a culmination of my experiences and the resources I have gather
 ## Our Vision
 We aim to make academic resources more **accessible, organized, and beneficial** for all students. Whether you’re looking for study materials, certification programs, or research tools, the CAPS Online Learning Center is here to support your educational journey.
 
-For any questions or suggestions, feel free to reach out to us on the [Contact](/contact) page. Let’s make learning more efficient and impactful together!
+For any questions or suggestions, feel free to reach out to us on the [Contact](/Contact) page. Let’s make learning more efficient and impactful together!
  
 
 

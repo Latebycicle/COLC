@@ -8,7 +8,7 @@ You can access *cutting edge, paid* models from Anthropic, OpenAI and Google for
 
 ## How to get it 
 
-1. ### **[Sign up for the GitHub Student Developer Pack](/docs/Engineering/tools/GitHub.md)**:
+1. ### **[Sign up for the GitHub Student Developer Pack](/Engineering/tools/GitHub.md)**:
     - Use the instructions [here](/Engineering/tools/GitHub.md) to sign up for the GitHub Student Developer Pack.
     - Follow the instructions to verify your student status and create your GitHub account if you don't have one.
 
