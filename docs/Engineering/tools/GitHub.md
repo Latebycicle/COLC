@@ -10,7 +10,11 @@
 
 1. Go to the [GitHub Education Pack](https://education.github.com/pack) page. 
 2. Sign up for a GitHub account if you don't have one.
+::: warning NOTE
+Please make sure that you have 2FA enabled for your GitHub account. Failing to meet this requirement will cause your application to be rejected. 
+:::
 3. Under "Select your role in education", select Student. In the "Application" dialog, enter the name of your school. If required, select or add the email address you use for school.
+
 
 4. Click Continue, and then you will be prompted to upload proof of your academic status. 
 > Ensure that you use your `Christ ID` card as your proof of academic status for best chances of getting accepted. 

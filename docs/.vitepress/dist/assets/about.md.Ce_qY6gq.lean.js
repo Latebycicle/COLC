@@ -1,0 +1,1 @@
+import{_ as a,c as t,o,ag as r}from"./chunks/framework.CEWvfau7.js";const p=JSON.parse('{"title":"About COLC","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),s={name:"about.md"};function i(n,e,l,d,c,u){return o(),t("div",null,e[0]||(e[0]=[r("",12)]))}const m=a(s,[["render",i]]);export{p as __pageData,m as default};

@@ -79,6 +79,15 @@ html .curtain{
   padding: 25px !important;
 } */
 
+
+.VPFooter {
+  position: relative !important;
+  z-index: 10;
+  display: flex !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
 /* 
 
 

@@ -92,25 +92,28 @@ export default defineConfig({
         level: [2, 3, 4]
       },
       footer: {
-        message: `
-          <div
-            style="
-              display: flex;
-              align-items: center;
-              gap: 20px;
-              flex-wrap: wrap;
-              justify-content: center;
-              padding: 0 16px;
-            "
-          >
-            <em style="margin: 0; text-align: center;">Optimising Learning and Harnessing Expertise</em>
-            <img
-              src="./FC.png"
-              alt="Footer Image"
-              style="max-width: 100px; height: auto;"
-            />
-          </div>
-        `,
+        message: "<div style=\"display: flex; align-items: center; justify-content: center; gap: 16px;\"><em>Optimising Learning and Harnessing Expertise</em><img src=\"/COLC/FC.png\" alt=\"Footer circles\" style=\"height: 24px; width: auto;\"/></div>"
+        // `
+        //   <div
+        //     style="
+        //       display: flex;
+        //       align-items: center;
+        //       gap: 20px;
+        //       flex-wrap: wrap;
+        //       justify-content: center;
+        //       padding: 0 16px;
+        //     "
+        //   >
+        //     <em style="margin: 0; text-align: center;">Optimising Learning and Harnessing Expertise</em>
+        //     <img
+        //       src="./FC.png"
+        //       alt="Footer Image"
+        //       style="max-width: 100px; height: auto;"
+        //     />
+        //   </div>
+          
+        // `
+        ,
       },
   },
 });
