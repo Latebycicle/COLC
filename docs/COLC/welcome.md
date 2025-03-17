@@ -14,10 +14,10 @@ The **CAPS Online Learning Center** is your go-to platform for accessing a varie
 Welcome to the **Get Started** section! Here’s how you can make the most of the CAPS Online Learning Center:
 
 1. **Browse Resources:**
-   - Navigate to the **sidebar** to find resources categorized by department and type. For example, you can explore "Computer Science > Certifications" or "Humanities > Journals."
+   - Navigate to the **sidebar** to find resources categorized by department and type. For example, you can explore `Computer Science > Certifications` or `Open Resources > Ai Tools`.
 
 2. **Search for Specific Needs:**
-   - Use the **search bar** at the top of the page to quickly locate specific courses, books, or tools.
+   - Use the **search bar** at the top of the page or the shortcut `⌘/Ctrl + K` to quickly locate specific courses, books, or tools.
 
 3. **Provide Feedback:**
    - Use the "Contact" page to share suggestions that can be added to this page or report issues to help us improve the platform. 

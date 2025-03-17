@@ -13,8 +13,8 @@ hero:
       text: Get Started
       link: /COLC/welcome
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/Latebycicle/COLC
+      text: About Us
+      link: /about
 
 
 features:

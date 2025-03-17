@@ -13,6 +13,7 @@ export default defineConfig({
     nav: [
       { text: "About", link: "/about" },
       { text: "Team", link: "/team" },
+      { text: "Contact", link: "/Contact" },
       {
         component: 'logo',
       },
@@ -31,33 +32,6 @@ export default defineConfig({
           ],
         },
         {
-          text: "Engineering and Technology",
-          items: [
-            { text: "Certification", link: "/Engineering/Certification.md" },
-            { text: "Courses", link: "/Engineering/Courses.md" },
-            {
-              text: "Tools",
-              items: [
-                { text: "🎓 Github Education", link: "/Engineering/tools/GitHub.md" },
-              ],
-            },
-          ],
-        },
-        {
-          text: "Psychology",
-          items: [
-            { text: "Physical Psychology", link: "/Psychology/PhysicalPsychology" },
-            { text: "From your Professors", link: "/Psychology/professors"},
-          ]
-        },
-        {
-          text: "Architecture",
-          items: [
-            { text: "Material", link: "/Architecture/Material" },
-            { text: "Architecture Firm Websites", link: "/Architecture/Websites.md" },
-          ],
-        },
-        {
           text: "Open Resources",
           items: [
             { text: "Textbooks/Papers", link: "/OpenResources/Material.md" },
@@ -73,6 +47,34 @@ export default defineConfig({
                 { text: "NotebookLM", link: "/OpenResources/Tools/NotebookLM.md" },
               ],
             }
+          ],
+        },
+        {
+          text: "Engineering and Technology",
+          items: [
+            { text: "Certification", link: "/Engineering/Certification.md" },
+            { text: "Courses", link: "/Engineering/Courses.md" },
+            {
+              text: "Tools",
+              items: [
+                { text: "🎓 Github Education", link: "/Engineering/tools/GitHub.md" },
+              ],
+            },
+          ],
+        },
+        {
+          text: "Psychology",
+          items: [
+            { text: "Resources", link: "/Psychology/subject"},
+            { text: "Physical Psychology", link: "/Psychology/PhysicalPsychology" },
+            { text: "From your Professors", link: "/Psychology/professors"},
+          ]
+        },
+        {
+          text: "Architecture",
+          items: [
+            { text: "Material", link: "/Architecture/Material" },
+            { text: "Architecture Firm Websites", link: "/Architecture/Websites.md" },
           ],
         },
         {

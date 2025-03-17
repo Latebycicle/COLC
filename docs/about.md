@@ -1,10 +1,27 @@
-<h1 class="capsh"> About </h1> <Badge type="tip" text="Featured"/>
+# About COLC
 
-The Centre for Academic and Professional Support is a team of student volunteers who aims to help their peers bridge the gap between the academia and the professional spheres through skill-sharing. The team extends their support to students, faculty, researchers and any individual who would require it. We help them face daunting tasks such as resume writing and appearing for job interviews and more! The volunteers are assisted by research scholars and faculty mentors whose experience and knowledge extend beyond what is taught in classrooms.
+The **CAPS Online Learning Center** is a dedicated platform designed to **centralize and organize academic and professional resources** for the students of Christ. Our goal is to provide a structured and accessible hub where students can find the *best* tools, courses, and materials to support their academic and career aspirations.
 
-What sets the Centre apart from other skill-sharing programs are the volunteers who work purely out of passion, yet staying true to the professionalism that the organization ensures. CAPS dreams of producing holistically developed individuals that can, and want to make a positive impact. 
+## Why This Platform?
 
-To make this dream come true, we have dedicated wings that deliver training sessions, host talks by industry experts, and conduct psychometric assessments. An individual who’s been a part of CAPS can be distinguished from the rest by their professionalism,integrity and eagerness to improve.
+When I was a student, I found it hard to keep track of what college offered, and in some cases, I didn't even know that college provided certain resources (in my case, MatLab ML certification). Over the years, as I grew more experienced and more accustomed to the industry, I realized that I have a personal repository of resources that I've found useful and that I have used to grow my skills. I had friends asking me where I found out about these things and how I learned them, so I figured the best way to help them is to create a platform where I can share all the resources that I have found useful and that I have used to grow my skills.
+
+This platform is a culmination of my experiences and the resources I have gathered over the years. It is designed to help you navigate the vast array of academic and professional resources available, making it easier for you to find what you need.
+
+## What You’ll Find Here
+- **Department-Wise Resources:** Access curated content tailored to your field of study.
+- **Certifications & Online Courses:** Explore opportunities to upskill and gain industry-recognized credentials.
+- **Books, Journals, & Research Papers:** Find essential reading materials recommended by faculty.
+- **Software & Tools:** Discover essential software and platforms useful for your studies and projects.
+
+## Our Vision
+We aim to make academic resources more **accessible, organized, and beneficial** for all students. Whether you’re looking for study materials, certification programs, or research tools, the CAPS Online Learning Center is here to support your educational journey.
+
+For any questions or suggestions, feel free to reach out to us on the [Contact](/contact) page. Let’s make learning more efficient and impactful together!
+ 
+
+
+
 
 ::: tip MISSION
 Our mission is to provide a shared platform for the entire university to exchange knowledge and experience in order to harness expertise in academic as well as professional spheres

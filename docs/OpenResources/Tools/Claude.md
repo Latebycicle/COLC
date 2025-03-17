@@ -1,15 +1,15 @@
-# Accessing Claude 3.7 through the GitHub Student Developer Pack
+# Accessing Claude 3.7 and ChatGPT o1  through the GitHub Student Developer Pack
 
 ## Introduction
 
-You can access cutting edge models from Anthropic, OpenAI and Google for free via the Github Student Developer plan. 
+You can access *cutting edge, paid* models from Anthropic, OpenAI and Google for **free** via the Github Student Developer plan. 
 
 ![Claude 3.7 and GitHub Student Developer Pack logos](https://www.geeky-gadgets.com/wp-content/uploads/2025/03/claude-3-7-sonnet-ai-model_optimized.jpg)
 
 ## How to get it 
 
 1. ### **[Sign up for the GitHub Student Developer Pack](/docs/Engineering/tools/GitHub.md)**:
-    - Use the instructions [here](/docs/Engineering/tools/GitHub.md) to sign up for the GitHub Student Developer Pack.
+    - Use the instructions [here](/Engineering/tools/GitHub.md) to sign up for the GitHub Student Developer Pack.
     - Follow the instructions to verify your student status and create your GitHub account if you don't have one.
 
     
@@ -45,20 +45,6 @@ You can access cutting edge models from Anthropic, OpenAI and Google for free vi
 - Creative writing assistance
 - Documentation help
 
-## Tips for Maximizing Your Claude 3.7 Experience
-
-1. **Be specific with your prompts** - The more detailed your instructions, the better Claude's responses will be.
-2. **Use system prompts** - Set the context at the beginning of your conversation to guide Claude's behavior.
-3. **Iterate on responses** - Don't hesitate to ask Claude to refine or expand on its answers.
-4. **Track your usage** - Monitor your API calls to stay within your student allocation.
-
-![Tips and tricks visual guide]()
-
-## Limitations to Be Aware Of
-
-- Student access may have monthly usage caps
-- Some premium features might have restrictions
-- Knowledge cutoff dates may apply to the model
 
 ## Conclusion
 
@@ -66,7 +52,6 @@ Access to Claude 3.7 through the GitHub Student Developer Pack represents an inc
 
 Don't miss this chance to add a powerful AI assistant to your student toolkit!
 
-![Student working with Claude 3.7]()
 
 ## Resources
 

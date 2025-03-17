@@ -6,7 +6,7 @@
 
 ## **Open Certification Courses**  
 
-### **[Class Central](https://www.classcentral.com/)**  
+### **[Class Central](https://www.classcentral.com/)**  <Badge type="warning" text="⭐️" />
 Class Central is a comprehensive directory of **Massive Open Online Courses (MOOCs)** from top providers like Coursera, edX, and others. It allows users to search and compare courses based on criteria such as subject, university, and certification type.  
 
 - **Key Features**:  
@@ -15,7 +15,7 @@ Class Central is a comprehensive directory of **Massive Open Online Courses (MOO
 - **Recommended Use**: You can set the Certification Filter to "Free" to find free certification courses
 
 
-### **[Free Code Camp](https://www.freecodecamp.org/)**  
+### **[Free Code Camp](https://www.freecodecamp.org/)**  <Badge type="warning" text="⭐️" />
 Free Code Camp offers **free online courses and certifications** in web development, data science, machine learning, and more. The platform includes interactive coding lessons, video tutorials, and hands-on projects to help learners build practical skills.  
 
 - **Key Features**:  

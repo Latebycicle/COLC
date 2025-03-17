@@ -3,7 +3,7 @@
 
 ## Academic Research Platforms
 
-### **[Anne's Archive](https://annas-archive.org/)** <Badge type="info" text="⭐️" />
+### **[Anne's Archive](https://annas-archive.org/)** <Badge type="warning" text="⭐️" />
 The largest truly open library in human history. <br>
 📈 42,295,586 books, 98,401,812 papers — preserved forever. All their code and data are completely open source. 
 

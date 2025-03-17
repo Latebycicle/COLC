@@ -16,9 +16,12 @@ const coreMembers = [
     title: 'Project Lead',
     links: [
       { icon: 'github', link: 'https://github.com/Latebycicle' },
-      { icon: 'instagram', link: 'https://twitter.com/johndoe' }
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/akhil-ramchand' }
     ]
-  },
+  }
+]
+
+const partners = [
   {
     avatar: 'https://github.com/Keona-Liz-C',
     name: 'Keona Liz Croning',
@@ -35,13 +38,17 @@ const coreMembers = [
       { icon: 'github', link: 'https://github.com/johndoe' },
       { icon: 'twitter', link: 'https://twitter.com/mariag' }
     ]
-  },
-]
-
-const partners = [
+  }
   
 ]
 </script>
+
+<style>
+/* Reduce top spacing for team page title */
+.VPTeamPageTitle {
+  padding-top: 10px !important; /* Adjust this value as needed */
+}
+</style>
 
 <VPTeamPage>
   <VPTeamPageTitle>
@@ -50,10 +57,10 @@ const partners = [
   </VPTeamPageTitle>
   <VPTeamMembers size="medium" :members="coreMembers" />
   <VPTeamPageSection>
-    <!-- <template #title>Members</template>
-    <template #lead>Valued contributors</template>
+    <template #title>Content Writers</template>
+    <!-- <template #lead>Valued contributors</template> -->
     <template #members>
       <VPTeamMembers size="small" :members="partners" />
-    </template> -->
+    </template>
   </VPTeamPageSection>
 </VPTeamPage>

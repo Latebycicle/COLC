@@ -16,6 +16,10 @@ Scribbr is a free online tool that generates accurate citations in APA and MLA f
 
 ## **Research & Article Access**  
 
+### **[American Psychological Association (APA)](https://www.apa.org/)**
+The APA is the leading organization for psychology research and publishing. Their website provides access to a wealth of resources, including journals, books, and guidelines for writing in APA style.
+- **Why it’s useful**: Stay updated on the latest research and access high-quality publications in psychology.
+
 ### **[SciSpace](https://scispace.com/)**  
 SciSpace is the easiest way to find, understand, and learn any research paper. For every paper you read, get simple explanations and answers from AI and discover a network of connected and relevant papers — all in one place.
 - **Why it’s useful**: Save time by quickly finding and getting the summary of research papers.  
@@ -44,6 +48,9 @@ The UGC CARE list helps you verify journals approved by the University Grants Co
 ### **[Coursera](https://www.coursera.org/)** & **[Udemy](https://www.udemy.com/)**  
 These platforms offer a wide range of psychology courses, from introductory to specialized topics, taught by experts from universities and industry. You can also earn certifications to enhance your CV and demonstrate additional skills.
 
+### **[Studocu](https://www.studocu.com/)**
+Studocu is a platform where students can share and access student-made study materials like lecture notes, summaries, practice exams, and assignments from universities worldwide.
+- **Why it's useful**: Find study resources specific to your psychology courses, access exam preparation materials, and learn from fellow students' notes and summaries.
 
 ### **[MIT OpenCourseWare](https://ocw.mit.edu/)**  
 Access free course materials from MIT, including psychology lectures, assignments, and readings.  
@@ -53,7 +60,6 @@ Access free course materials from MIT, including psychology lectures, assignment
 A UGC MOOC platform offering structured learning modules in psychology and other disciplines.  
 - **Why it’s useful**: Supplement your coursework with additional learning resources.  
 
----
 
 ## **Coding & Data Analysis**  
 
@@ -65,14 +71,12 @@ Learn coding basics (Python, R) for data analysis in psychology.
 SPSS (Statistical Package for the Social Sciences) is a powerful tool for statistical analysis.  
 - **Why it’s useful**: Analyze data from experiments and surveys with ease.  
 
----
 
 ## **Books**  
 
 ### **[Free Psychology Books (PDF Drive)](https://www.pdfdrive.to/categories/65-psychology)**  
 Access free psychology textbooks and reference books for your studies.  
 
----
 
 ## **Journal Websites**  
 - **[Taylor & Francis](https://www.tandfonline.com/openaccess/openjournals)**  
