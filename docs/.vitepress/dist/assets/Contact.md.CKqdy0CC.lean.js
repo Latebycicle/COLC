@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,ag as r}from"./chunks/framework.CEWvfau7.js";const f=JSON.parse('{"title":"Contact Us","description":"","frontmatter":{},"headers":[],"relativePath":"Contact.md","filePath":"Contact.md"}'),n={name:"Contact.md"};function i(s,a,c,d,h,l){return o(),t("div",null,a[0]||(a[0]=[r("",14)]))}const m=e(n,[["render",i]]);export{f as __pageData,m as default};
