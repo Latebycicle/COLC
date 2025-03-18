@@ -92,7 +92,7 @@ export default defineConfig({
         level: [2, 3, 4]
       },
       footer: {
-        message: "<div style=\"display: flex; align-items: center; justify-content: center; gap: 16px;\"><em>Optimising Learning and Harnessing Expertise</em><img src=\"/COLC/FC.png\" alt=\"Footer circles\" style=\"height: 24px; width: auto;\"/></div>"
+        message: "<em>Optimising Learning and Harnessing Expertise</em>",
         // `
         //   <div
         //     style="
@@ -113,7 +113,6 @@ export default defineConfig({
         //   </div>
           
         // `
-        ,
       },
   },
 });

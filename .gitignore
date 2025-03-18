@@ -7,9 +7,15 @@ yarn-debug.log*
 yarn-error.log*
 
 # Local build outputs
+docs/.vitepress/dist
+docs/.vitepress/cache
 .vitepress/dist
 .vitepress/cache
 
 # OS files
 .DS_Store
 Thumbs.db
+
+# Github files
+.github
+.venv

@@ -31,29 +31,24 @@ const partners = [
     ]
   },
   {
-    avatar: 'https://github.com/antfu.png',
+    avatar: 'https://github.com/bhavyasingh30.png',
     name: 'Bhavya Singh',
     title: 'Content Writer',
     links: [
-      { icon: 'github', link: 'https://github.com/johndoe' },
-      { icon: 'twitter', link: 'https://twitter.com/mariag' }
+      { icon: 'github', link: 'https://github.com/bhavyasingh30' },
+      { icon: 'gmail', link: 'mailto:bhavya.singh@psyh.christuniversity.in' }
     ]
   }
   
 ]
 </script>
 
-<style>
-/* Reduce top spacing for team page title */
-.VPTeamPageTitle {
-  padding-top: 10px !important; /* Adjust this value as needed */
-}
-</style>
+
 
 <VPTeamPage>
   <VPTeamPageTitle>
     <template #title>Our Team</template>
-    <template #lead>The amazing people who make COLC possible</template>
+    <template #lead></template>
   </VPTeamPageTitle>
   <VPTeamMembers size="medium" :members="coreMembers" />
   <VPTeamPageSection>

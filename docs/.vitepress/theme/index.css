@@ -80,13 +80,13 @@ html .curtain{
 } */
 
 
-.VPFooter {
+/* .VPFooter {
   position: relative !important;
   z-index: 10;
   display: flex !important;
   visibility: visible !important;
   opacity: 1 !important;
-}
+} */
 
 /* 
 
@@ -114,7 +114,7 @@ html .curtain{
 
 
 /* Customize website's scrollbar like Mac OS
-Not supports in Firefox and IE */
+Not supported in Firefox and IE */
 .scrollbar {
   overflow: overlay
 }
@@ -170,6 +170,10 @@ Not supports in Firefox and IE */
   align-items: center;
 }
 
+
+.VPTeamPageTitle {
+  padding-top: 0px !important; /* Adjust this value as needed */
+}
 /* 
 
 
