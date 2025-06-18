@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "CAPS Online Learning Center",
   description: "A repo of information",
-  base: '/',
+  base: '/COLC/',
   themeConfig: {
     search: {
       provider: 'local'
