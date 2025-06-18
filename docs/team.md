@@ -16,7 +16,8 @@ const coreMembers = [
     title: 'Project Lead',
     links: [
       { icon: 'github', link: 'https://github.com/Latebycicle' },
-      { icon: 'linkedin', link: 'https://www.linkedin.com/in/akhil-ramchand' }
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/akhil-ramchand' },
+      { icon: 'blogger', link: 'https://www.akhilr.tech' }
     ]
   }
 ]
