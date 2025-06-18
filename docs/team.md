@@ -23,11 +23,12 @@ const coreMembers = [
 
 const partners = [
   {
-    avatar: 'https://github.com/Keona-Liz-C',
+    avatar: 'Keona.jpeg',
     name: 'Keona Liz Croning',
     title: 'Content writer',
     links: [
-      { icon: 'github', link: 'https://github.com/alexj' }
+      { icon: 'github', link: 'https://github.com/Keona-Liz-Croning' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/keona-liz-croning-4b14112b6/' }
     ]
   },
   {

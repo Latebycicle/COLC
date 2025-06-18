@@ -70,8 +70,6 @@ The library has a collection including:
 Books are arranged according to the **22nd edition of the Dewey Decimal Classification**.
 
 
-## Institutional Membership - ??
-
 ## Borrowing Facility
 - Books marked **REF** (Reference) cannot be borrowed.
 - Books with a **white spine label marked as BK** are available for circulation.

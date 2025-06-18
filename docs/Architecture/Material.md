@@ -17,6 +17,12 @@ ArchDaily is the holy grail for staying updated on architectural trends, project
 - **Why it’s great**: It’s packed with real-world examples that have been successfully implimented. 
 
 
+### **[Pattern Language](https://patternlanguage.cc)**
+This project is an abridged, hyper-textual, and copyleft manifestation of the 1977 architecture classic [A Pattern Language](https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf) by Christopher Alexander. It is compiled from markdown into a static website using Quartz.
+
+- **Why it’s great**: Serves as both an accessible reference for architectural patterns and a way to explore Alexander's influential ideas in a digital format.
+
+
 ## **Design Tools & Skills**  
 
 ### **[Canva](https://www.canva.com)**  
@@ -45,6 +51,6 @@ Architextures is a must-have tool for architects and designers, offering a libra
 ### **Zero Seven Sketches ([YouTube](https://www.youtube.com/@07sketches) & [Instagram](https://www.instagram.com/07sketches/))**  
 If you struggle with sketching, Bhupeshkumar breaks down complex techniques into simple, actionable steps with his shortform videos available on Youtube & Instagram
 
-- **Why it’s great**: They focus on both technical skills and creative expression, which is crucial for architects.  
+- **Why it’s great**: They focus on both technical skills and creative expression, which is crucial for architects.
 
 
